@@ -14,7 +14,7 @@ function NavigationBar() {
   return (
     <div id="home">
         <Navbar className="navigation_container" expand="md">
-        <Navbar.Brand style={{ marginLeft: '1rem'}} href="#home">Shoba Santosh Yay!</Navbar.Brand>
+        <Navbar.Brand style={{ marginLeft: '1rem'}} href="#home">Shoba Santosh</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse style={{ justifyContent: 'flex-end', marginRight: '1rem'}} borderColor>
             <Nav className="links" style={{margin: '0 1rem'}}>
