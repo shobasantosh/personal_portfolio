@@ -1,4 +1,13 @@
-.image {
+.image_back {
     height: 700px;
     width: 1550px;
+    position: absolute;
+}
+
+.image_front {
+    height: 250px;
+    width: 400px;
+    position: relative;
+    margin-top: 23rem;
+    margin-left: 60rem;
 }
