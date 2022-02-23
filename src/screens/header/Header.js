@@ -5,10 +5,10 @@ import Typed from 'react-typed';
 function Header() {
   return (
     <div className="main-info">
+      <h1>Lifelong Learning</h1>
         <Typed 
             strings={[
-                "",
-                'Wander your creative space']}
+                'have the courage to create                                      ']}
                 typeSpeed={40}
                 backSpeed={50}
                 loop
