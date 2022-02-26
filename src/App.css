@@ -5,5 +5,7 @@
     --light-color: hsl(209, 100%, 92%);
     --font-color: hsl(0, 0%, 90%);
     --font-color-hover: rgba(230, 230, 230, 0.25);
+    --white: rgb(255, 255, 255);
+    --gray-hover: rgb(224, 221, 221);
 }
 

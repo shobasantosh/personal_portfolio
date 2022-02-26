@@ -1,7 +1,7 @@
 import React from 'react'
 import './imageScene.css'
-import blue from './lightblue.png';
-import birds from './birdswirls.png';
+import blue from './images/lightblue.png';
+import birds from './images/birdswirls.png';
 
 
 function ImageScene() {

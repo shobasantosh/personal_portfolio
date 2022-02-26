@@ -1,5 +1,5 @@
 .about_container {
-    margin: 3rem 0;
+    margin: 5rem 0;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -13,6 +13,7 @@
     border: 0.5px solid rgb(218,218,218);
     */
 
+    margin-top: 3rem;
     margin-left: 3rem;
     margin-bottom: 3rem;
     margin-right: 3rem;
