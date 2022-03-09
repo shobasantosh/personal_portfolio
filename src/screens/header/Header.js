@@ -1,20 +1,25 @@
 import React from 'react'
 import './Header.css'
-import Typed from 'react-typed';
+// import Typed from 'react-typed';
 
 function Header() {
   return (
     <div className="main-info">
       <h1>Lifelong Learning</h1>
-        <Typed 
-            strings={[
-                'have the courage to create                                      ']}
-                typeSpeed={40}
-                backSpeed={50}
-                loop
-        />
+      <p>have the courage to create</p>
     </div>
   )
 }
 
 export default Header
+
+/*
+        <Typed 
+            strings={[
+                '    ',
+                'have the courage to create             ']}
+                typeSpeed={90}
+                backSpeed={80}
+                loop
+        />
+*/

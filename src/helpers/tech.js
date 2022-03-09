@@ -1,38 +1,44 @@
 export const techs = [
     {
-        // array of objects
         name: 'React',
         iconName: 'react'
     },
     {
-        // array of objects
         name: 'Github',
-        iconName: 'github_badge'
+        iconName: 'github_badge',
+        href: "https://github.com/shobasantosh"
     },
     {
-        // array of objects
         name: 'Visual Studio Code',
         iconName: 'visualstudio'
     },
     {
-        // array of objects
         name: 'Javascript',
         iconName: 'javascript'
     },
     {
-        // array of objects
         name: 'CSS3',
         iconName: 'css3'
     },
     {
-        // array of objects
         name: 'HTML 5',
         iconName: 'html5'
     },
     {
-        // array of objects
         name: 'Bootstrap',
         iconName: 'bootstrap'
-    }
+    },
+    {
+        name: 'Python',
+        iconName: 'python'
+    },
+    
+    
 
 ]
+
+/*
+<p> This is my Github page
+    <a href="https://github.com/shobasantosh" target="_blank" rel="noreferrer">https://github.com/shobasantosh</a>
+</p>
+*/

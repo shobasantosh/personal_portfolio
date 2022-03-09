@@ -7,7 +7,7 @@
 .main-info {
     display: flex;
     position: absolute;
-    color: var(--nav-color);
+    color: var(--font-color);
     top: 0;
     right: 0;
     left: 0;
